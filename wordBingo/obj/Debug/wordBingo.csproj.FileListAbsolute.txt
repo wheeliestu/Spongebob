@@ -1,0 +1,14 @@
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\bin\Debug\wordBingo.exe.config
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\bin\Debug\wordBingo.exe
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\bin\Debug\wordBingo.pdb
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.csprojResolveAssemblyReference.cache
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.Properties.Resources.resources
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.csproj.GenerateResource.Cache
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.csproj.CoreCompileInputs.cache
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.exe
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.pdb
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.Home.resources
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.Form2.resources
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.Form4.resources
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.Form5.resources
+C:\Users\The Worley's\Desktop\Joe- hackathon\wordBingo\wordBingo\obj\Debug\wordBingo.Form6.resources
